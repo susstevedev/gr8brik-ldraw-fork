@@ -16,7 +16,7 @@ More details about the LDraw project can be found at:
 The LDraw Parts Library is licensed under the Creative Commons Attribution License 2.0, as specified by the LDraw.org Contributor Agreement (CA).  
 For full license details, see:  
 
-🔗 [LDraw.org Legal Information](https://www.ldraw.org/docs-main/licenses/legal-info.html)  
+ - [LDraw.org Legal Information](https://www.ldraw.org/docs-main/licenses/legal-info.html)  
 
 ### Summary of Rights  
 
